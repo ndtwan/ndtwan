@@ -1,5 +1,5 @@
 # Twan# 💫 About Me:
-Final-year Bachelor's student at the University of Economics, Ho Chi Minh city, specializing in Data Science. <br>With a keen eye for detail and a passion for transforming raw data into meaningful insights
+Final-year Bachelor's student at the University of Economics, Ho Chi Minh city, specializing in Data Science.
 
 
 ## 🌐 Socials:
