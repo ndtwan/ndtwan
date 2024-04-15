@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kudasai03](https://github.com/Kudasai03)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10ymgx6Y86Ou5jZ_Ze8oGZl2A46a8ihJ-/view?usp=sharing](https://drive.google.com/file/d/10ymgx6Y86Ou5jZ_Ze8oGZl2A46a8ihJ-/view?usp=sharing)
+- 📄 My cover letter [https://drive.google.com/file/d/10ymgx6Y86Ou5jZ_Ze8oGZl2A46a8ihJ-/view?usp=sharing](https://drive.google.com/file/d/10ymgx6Y86Ou5jZ_Ze8oGZl2A46a8ihJ-/view?usp=sharing)
 
 - ⚡ Fun fact **Wibu :>>**
 
