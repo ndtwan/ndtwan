@@ -1,6 +1,6 @@
 <h1 align="center">Twan de humantachi (ToanNguyen)</h1>
 <h3 align="center">Final-year Bachelor's student at the University of Economics, HCMC, specializing in Data Science.</h3>
-<img align="mid" alt="coding" width ="1000" src="https://24.media.tumblr.com/0be89f47305f8e6469ab86c7e5090d21/tumblr_n1m44pDdp21t0hdd4o1_500.gif">
+<img align="mid" alt="coding" width ="800" src="https://24.media.tumblr.com/0be89f47305f8e6469ab86c7e5090d21/tumblr_n1m44pDdp21t0hdd4o1_500.gif">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kudasai03&label=Profile%20views&color=0e75b6&style=flat" alt="kudasai03" /> </p> -->
 
 - 🔭 I'm actively seeking opportunities in **data analysis (DA)** or **data engineering (DE)** roles
