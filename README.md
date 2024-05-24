@@ -3,10 +3,19 @@
 <img align="center" alt="coding" width ="800" src="https://24.media.tumblr.com/0be89f47305f8e6469ab86c7e5090d21/tumblr_n1m44pDdp21t0hdd4o1_500.gif">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kudasai03&label=Profile%20views&color=0e75b6&style=flat" alt="kudasai03" /> </p> -->
 
-- 🔭 I'm actively seeking opportunities in **data analysis (DA)** or **data engineering (DE)** roles
-- 🌱 I’m currently learning **Data Warehouse, Machine Learning, NLP**
-- 👨‍💻 All of my projects are available at [https://github.com/Kudasai03](https://github.com/Kudasai03)
-- ⚡ Fun fact **Wibu :>>**
+<div>
+  <div>
+    <img src="![image](https://github.com/Kudasai03/Kudasai03/assets/114086290/9173dc1a-5ffc-4cf5-b174-bb3a8c12d0d7)" align="left" style="margin-right: 10px;">
+    <p align="left">
+      &nbsp;&#10022; Just call me <strong>Twan</strong><br>
+      &nbsp;&#10022; 🔭 I'm actively seeking opportunities in <strong>data analysis (DA)</strong> or <strong>data engineering (DE)</strong> roles<br>
+      &nbsp;&#10022; 🌱 I’m currently learning <strong>Data Warehouse, Machine Learning, NLP</strong><br>
+      &nbsp;&#10022; 👨‍💻 All of my projects are available at <a href="https://github.com/Kudasai03">https://github.com/Kudasai03</a><br>
+      &nbsp;&#10022; ⚡ Let's talk about Wuxia, Three Kingdoms, and Anime stuff<br>
+    </p>
+  </div>
+</div>
+
 
 <h3 align="left">Social:</h3>
 <p align="left">
@@ -23,3 +32,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kudasai03&show_icons=true&locale=en" alt="kudasai03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kudasai03&" alt="kudasai03" /></p>
+<img src="./assets/images/herobanner.png">
+
+<br>
+
+
+
+
+   &nbsp;&#10022; I ussualy use Discord for chatting with friends.
+   
+   &nbsp;&#10022; I use Instagram for uploading my drawing content.
+   
+  </p>
+ </div>
+</div>
