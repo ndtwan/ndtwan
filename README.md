@@ -5,7 +5,6 @@
 <br>
 <div>
   <div>
-    <img  width ="200" src="https://github.com/Kudasai03/Kudasai03/assets/114086290/9173dc1a-5ffc-4cf5-b174-bb3a8c12d0d7" align="left" style="margin-right: 10px;">
     <p align="left">
       <br><span style="display: block; margin-bottom: 10px;">&#10022; Just call me <strong>Twan</strong></span><br><br>
       <span style="display: block; margin-bottom: 10px;">&#10022; 🔭 I'm actively seeking opportunities in <strong>data analysis (DA)</strong> or <strong>data engineering (DE)</strong> roles</span><br><br>
