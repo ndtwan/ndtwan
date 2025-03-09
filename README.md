@@ -9,7 +9,6 @@
       <br><span style="display: block; margin-bottom: 10px;">&#10022; Just call me <strong>Twan</strong></span><br><br>
       <span style="display: block; margin-bottom: 10px;">&#10022; 🔭 I'm actively seeking opportunities in <strong>data analysis (DA)</strong> or <strong>data engineering (DE)</strong> roles</span><br><br>
       <span style="display: block; margin-bottom: 10px;">&#10022; 🌱 I’m currently learning <strong>Data Warehouse, Machine Learning, NLP</strong></span><br><br>
-      <span style="display: block; margin-bottom: 10px;">&#10022; 👨‍💻 All of my projects are available at <a href="https://github.com/ndtwan">https://github.com/ndtwan</a></span><br><br>
       <span style="display: block; margin-bottom: 10px;">&#10022; ⚡ Let's talk about Wuxia, Three Kingdoms, and Anime stuff</span><br><br>
     </p>
   </div>
